@@ -52,7 +52,7 @@
                 // copy current array value into item and pass to arrow function
                 (item,index) => (
                   <li key={index}>
-                    {item.firstname}
+                    {item.menuname}
                   </li>
                 )
               )
@@ -68,7 +68,7 @@
         // after JSON loaded, call react render() to output component into existing element
         // pass properties as attributes: list passes array stored in var jsonFromJquery
         ReactDOM.render(
-          <firstname list={jsonFromJquery} />,
+          <menuname list={jsonFromJquery} />,
           document.getElementById('myApp')
         );
       }

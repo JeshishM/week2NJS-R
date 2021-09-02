@@ -1,18 +1,18 @@
 [
     {
-        "firstname":"HOME",
+        "menuname":"HOME",
         "link":"https://www.santarosa.edu"
     },
     {
-        "firstname":"ABOUT",
+        "menuname":"ABOUT",
         "link":"https://www.santarosa.edu"
     },
     {
-        "firstname":"CONTACT",
+        "menuname":"CONTACT",
         "link":"https://www.w3schools.com"
     },
 		{
-        "firstname":"GALLERY",
+        "menuname":"GALLERY",
         "link":"https://www.w3schools.com"
     }
 ]
